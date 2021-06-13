@@ -1,6 +1,7 @@
-👋 Hi, I’m Jia Sheng (迦胜)
+Hi, I’m Jia Sheng (迦胜) 🛢️
 
-👀 I’m interested in data science and technologies.
+Currently, I'm interests are in:
+* Data Science/Technologies
+* Ren'Py 
 
-🌱 I’m currently learning a bunch of data science stuff.
 
