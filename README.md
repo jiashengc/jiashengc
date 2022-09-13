@@ -1,6 +1,9 @@
-Hi, I’m Jia Sheng (迦胜), data scientist at Woodside Energy, based in Perth, Australia. 
+Hello there,  I’m Jia Sheng (迦胜)
 
-Currently, my interests are in:
+## I am
+* A Data Scientist at [Woodside Energy](https://woodside.com), based in Perth, Australia.
+
+## My interests are in
 * Full-Stack Web Development
 * Data Science/Technologies
   * Spatial Data Science
