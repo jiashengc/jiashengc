@@ -1,7 +1,7 @@
 
-# Hello There!
+# Hello There 👋🏽
 I’m Jia Sheng (迦胜),  
-Data Scientist and Indie Full-Stack Web Developer based in Perth, Australia 🇦🇺
+Data Scientist and Indie Full-Stack Web Developer based in Perth, Australia 🦘
 
 
    
