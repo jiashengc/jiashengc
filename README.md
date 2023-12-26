@@ -1,10 +1,11 @@
 
+I’m Jia Sheng (迦胜),  
+Data Scientist and Indie Full-Stack Web Developer based in Perth, Australia 🇦🇺
 
-## I am
-Hello there,  I’m Jia Sheng (迦胜),  
-Software Engineer and Data Scientist based in Perth, Australia.
+## Currently, I am
+* 💼 Senior Data Decision Monkey at [INPEX](https://www.inpex.com.au/)
+* 🤹🏽‍♂️ Interested in working with Data Science/Technologies, Full-Stack Web Development, and Ren'Py
 
-## My interests are in
-* Full-Stack Web Development
-* Data Science/Technologies
-* Ren'Py 
+
+
+
